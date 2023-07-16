@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 ,FASHION TV
+https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8     
+#EXTINF:-1 ,CLUBBING TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,m2o Italia IT
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8      
+#EXTINF:-1,FIRST MUSIC CHANNEL BIELORUSIA
+http://hz1.teleport.cc/HLS/HD.m3u8    
+#EXTINF:-1,MOLAHITS
+http://ventdelnord.tv:8080/mola/directe.m3u8     
+#EXTINF:-1,ACTIVA TV ESPAÑA
+https://streamtv.mediasector.es/hls/activatv/index.m3u8  
+#EXTINF:-1,RETRO LATINO
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8     
+#EXTINF:-1,RETRO MUSIC TELEVISION EUROPA
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8  
+#EXTINF:-1,MUNDO DE LA MUSICA TV
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL      
+#EXTINF:-1,RECUERDOS RETRO RADIO TV
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL      
+#EXTINF:-1,FORO TV MEXICO
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8    
+#EXTINF:-1,ADN40 MEXICO
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8    
+#EXTINF:-1,MULTIMEDIOS CDMX MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL     
+#EXTINF:-1,MULTIMEDIOS GUADALAJARA MX
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL   
+#EXTINF:-1,MULTIMEDIOS MONTERREY MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL    
+#EXTINF:-1,CANAL 6 MULTIMEDIOS MEXICO
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8    
+#EXTINF:-1,EL FINANCIERO MEXICO
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8   
+#EXTINF:-1,RTQ QUERETARO MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL    
+#EXTINF:-1,SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8 
+#EXTINF:-1,ESTRELLA TV
+https://iptv-org.github.io/iptv/countries/us.m3u 
+#EXTINF:-1,ESTRELLA NEWS
+https://iptv-org.github.io/iptv/countries/us.m3u 
+#EXTINF:-1,CINE ROMANTICO
+https://iptv-org.github.io/iptv/countries/us.m3u 
+#EXTINF:-1,Sport Italia IT
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8 
+#EXTINF:-1,Sport Italia
+http://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8 
+#EXTINF:-1,Sport Italia2
+http://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8 
+#EXTINF:-1,TELEDEPORTE GEO
+http://ztnr.rtve.es/ztnr/1712295.m3u8 
